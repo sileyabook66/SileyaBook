@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/lib/cloudinary.ts","./src/lib/gemini.ts","./src/lib/supabase.ts","./src/pages/admin/index.tsx","./src/pages/dashboard/index.tsx","./src/pages/studio/index.tsx"],"version":"5.9.3"}
